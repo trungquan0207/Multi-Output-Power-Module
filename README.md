@@ -1,4 +1,4 @@
-Multi-Source Power Module
+# Multi-Source Power Module.
 📌 Project OverviewThis project features a high-efficiency power management board designed for robotics and embedded systems. It supports dual-input sources: Battery (Li-ion/LiPo) or a DC Wall Adapter, providing three stable output rails using a dedicated Buck-Boost architecture.
 🚀 Key Features
 - Dual Input: Flexible power from Battery or DC Jack.
