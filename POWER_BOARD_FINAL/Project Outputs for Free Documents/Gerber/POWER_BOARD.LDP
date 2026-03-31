@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\FILE TONG HOP\EX_Altium\POWER_BOARD_FINAL\POWER_BOARD.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=power_board-roundholes-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=power_board-slotholes-plated.txt|DrillLayers=gtl,gbl
